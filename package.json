@@ -1,7 +1,7 @@
 {
   "name": "ricoh-counter",
   "version": "0.0.1",
-  "description": "Counter for Ricoh printers",
+  "description": "Module that fetches RICOH printers counter data.",
   "main": "index.js",
   "dependencies": {
     "bluebird": "^3.4.1",
