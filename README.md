@@ -20,7 +20,7 @@ getCounters('printer-ip-or-host').then(counterData => { console.log(data); })
 
 getCounters function returns a counterData object with the following format:
 
-```json
+```
 {
   host,
   modelName,
