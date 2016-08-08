@@ -1,0 +1,71 @@
+{
+  "mainOid": "1.3.6.1.4.1.367",
+  "counterOid": "1.3.6.1.4.1.367.3.2.1.2.19.5.1.9",
+  "modelOid": "1.3.6.1.4.1.367.3.2.1.1.1.1.0",
+  "serialOid": "1.3.6.1.4.1.367.3.2.1.2.1.4.0",
+  "counters": {
+    "MP C2503": {
+      "copyBlack": 3,
+      "copyColor": 5,
+      "printBlack": 9,
+      "printColor": 11,
+      "faxBlack": 7
+    },
+    "Aficio MP 301": {
+      "copyBlack": 3,
+      "copyColor": null,
+      "printBlack": 7,
+      "printColor": null,
+      "faxBlack": 5
+    },
+    "MP C3003": {
+      "copyBlack": 3,
+      "copyColor": 5,
+      "printBlack": 9,
+      "printColor": 11,
+      "faxBlack": 7
+    },
+    "Aficio MP 2352": {
+      "copyBlack": 3,
+      "copyColor": null,
+      "printBlack": 7,
+      "printColor": null,
+      "faxBlack": 5
+    },
+    "Aficio MP 171": {
+      "copyBlack": 3,
+      "copyColor": null,
+      "printBlack": 7,
+      "printColor": null,
+      "faxBlack": 5
+    },
+    "Aficio MP 201": {
+      "copyBlack": 3,
+      "copyColor": null,
+      "printBlack": 7,
+      "printColor": null,
+      "faxBlack": 5
+    },
+    "Aficio MP C3002": {
+      "copyBlack": 3,
+      "copyColor": 5,
+      "printBlack": 9,
+      "printColor": 11,
+      "faxBlack": 7
+    },
+    "Aficio MP 4000": {
+      "copyBlack": 3,
+      "copyColor": null,
+      "printBlack": 7,
+      "printColor": null,
+      "faxBlack": 5
+    },
+    "Aficio MP C2550": {
+      "copyBlack": 3,
+      "copyColor": 5,
+      "printBlack": 9,
+      "printColor": 11,
+      "faxBlack": 7
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "ricoh-counter",
+  "version": "0.0.1",
+  "description": "Counter for Ricoh printers",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "snmp-native": "^1.0.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ricoh",
+    "aficio",
+    "printer",
+    "counters",
+    "snmp-counters"
+  ],
+  "author": "Jacques Lareau <jacques.lareau@adfdiesel.com>",
+  "license": "ISC",
+  "bugs": {
+    "url" : "https://github.com/ADFDiesel/ricoh-counter/issues",
+    "email" : "jacques.lareau@adfdiesel.com"
+  },
+  "homepage": "https://github.com/ADFDiesel/ricoh-counter",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ADFDiesel/ricoh-counter.git"
+  },
+  "engines" : {
+    "node" : ">=5.0.0"
+  }
+}
