@@ -59,3 +59,7 @@ Working on the following RICOH printers:
 ## Known issues
 
 Not counting two-colors counters.
+
+## Author
+
+Jacques Lareau, ADF Diesel Inc. <jacques.lareau@adfdiesel.com>
