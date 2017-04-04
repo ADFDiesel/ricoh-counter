@@ -11,6 +11,13 @@
       "printColor": 11,
       "faxBlack": 7
     },
+    "MP 2554": {
+      "copyBlack": 3,
+      "copyColor": null,
+      "printBlack": 7,
+      "printColor": null,
+      "faxBlack": 5
+    },
     "Aficio MP 301": {
       "copyBlack": 3,
       "copyColor": null,
@@ -19,6 +26,13 @@
       "faxBlack": 5
     },
     "MP C3003": {
+      "copyBlack": 3,
+      "copyColor": 5,
+      "printBlack": 9,
+      "printColor": 11,
+      "faxBlack": 7
+    },
+    "MP C3004": {
       "copyBlack": 3,
       "copyColor": 5,
       "printBlack": 9,
