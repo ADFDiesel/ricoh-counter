@@ -11,9 +11,9 @@ npm install ricoh-counter
 ## Usage
 
 ```javascript
-var getCounters = require('ricoh-counter');
+const getCounters = require('ricoh-counter');
 
-getCounters('printer-ip-or-host').then(counterData => { console.log(data); })
+getCounters('printer-ip-or-host').then(counterData => console.log(counterData));
 ```
 
 ### counterData
@@ -49,12 +49,14 @@ Working on the following RICOH printers:
 * MP C2503
 * Aficio MP 301
 * MP C3003
+* MP C3004
 * Aficio MP 2352
 * Aficio MP 171
 * Aficio MP 201
 * Aficio MP C3002
 * Aficio MP 4000
 * Aficio MP C2550
+* MP 2554
 
 ## Known issues
 
