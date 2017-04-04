@@ -1,6 +1,6 @@
 {
   "name": "ricoh-counter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Module that fetches RICOH printers counter data.",
   "main": "index.js",
   "dependencies": {
