@@ -30,6 +30,6 @@
     "url" : "https://github.com/ADFDiesel/ricoh-counter.git"
   },
   "engines" : {
-    "node" : ">=5.0.0"
+    "node" : ">=7.6.0"
   }
 }
